@@ -35,9 +35,9 @@
     {
       "id": 5,
       "nome": "Headset microsoft",
-      "valor": 3000.00,
+      "valor": 1829.12,
       "promocao": true,
-      "valorPromo":999.90,
+      "valorPromo":99.90,
       "imagem": "headset.jpg"
     },
     {
