@@ -2,7 +2,7 @@
   "produtos": [
     {
       "id": 1,
-      "name": "Mouse Microsoft",
+      "nome": "Mouse Microsoft",
       "valor": 15.90,
       "promocao": false,
       "valorPromo":0,
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "name": "Teclado Microsoft",
+      "nome": "Teclado Microsoft",
       "valor": 30.00,
       "promocao": false,
       "valorPromo":0,
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "name": "Monitor Samsung",
+      "nome": "Monitor Samsung",
       "valor": 300.00,
       "promocao": false,
       "valorPromo":0,
@@ -26,7 +26,7 @@
     },
     {
       "id": 4,
-      "name": "Laptop Asus",
+      "nome": "Laptop Asus",
       "valor": 3000.00,
       "promocao": true,
       "valorPromo":999.90,
@@ -34,7 +34,7 @@
     },
     {
       "id": 5,
-      "name": "Headset microsoft",
+      "nome": "Headset microsoft",
       "valor": 3000.00,
       "promocao": true,
       "valorPromo":999.90,
@@ -42,7 +42,7 @@
     },
     {
       "id": 6,
-      "name": "Web Cam Logitech",
+      "nome": "Web Cam Logitech",
       "valor": 90.00,
       "promocao": false,
       "valorPromo": 0,
@@ -50,7 +50,7 @@
     },
     {
       "id": 7,
-      "name": "Galaxy S10+",
+      "nome": "Galaxy S10+",
       "valor": 3000.00,
       "promocao": false,
       "valorPromo": 0,
@@ -58,7 +58,7 @@
     },
     {
       "id": 8,
-      "name": "MousePad Microsoft",
+      "nome": "MousePad Microsoft",
       "valor": 5.50,
       "promocao": false,
       "valorPromo": 0,
@@ -66,7 +66,7 @@
     },
     {
       "id": 9,
-      "name": "Go Pro 8",
+      "nome": "Go Pro 8",
       "valor": 300.00,
       "promocao": false,
       "valorPromo": 0,
