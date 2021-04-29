@@ -2,7 +2,7 @@
   "produtos": [
     {
       "id": 1,
-      "nome": "Mouse Microsoft",
+      "nome": "mouse Microsoft",
       "valor": 15.90,
       "promocao": false,
       "valorPromo":0,
